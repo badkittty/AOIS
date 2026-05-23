@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+.coverage
+htmlcov/
+.DS_Store
+*.pyc
+*.pyo
