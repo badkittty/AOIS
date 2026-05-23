@@ -1,0 +1,26 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Отчёты покрытия
+.coverage
+htmlcov/
+.coverage.*
+coverage.xml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+.venv/
