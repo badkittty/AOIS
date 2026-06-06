@@ -5,3 +5,7 @@ htmlcov/
 .DS_Store
 *.pyc
 *.pyo
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
